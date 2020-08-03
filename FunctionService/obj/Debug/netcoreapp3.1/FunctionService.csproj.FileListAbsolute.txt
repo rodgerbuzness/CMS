@@ -1,0 +1,12 @@
+C:\z-a-Projects\WebProjects\CMS\FunctionService\bin\Debug\netcoreapp3.1\FunctionService.deps.json
+C:\z-a-Projects\WebProjects\CMS\FunctionService\bin\Debug\netcoreapp3.1\FunctionService.dll
+C:\z-a-Projects\WebProjects\CMS\FunctionService\obj\Debug\netcoreapp3.1\FunctionService.csprojAssemblyReference.cache
+C:\z-a-Projects\WebProjects\CMS\FunctionService\obj\Debug\netcoreapp3.1\FunctionService.AssemblyInfoInputs.cache
+C:\z-a-Projects\WebProjects\CMS\FunctionService\obj\Debug\netcoreapp3.1\FunctionService.AssemblyInfo.cs
+C:\z-a-Projects\WebProjects\CMS\FunctionService\bin\Debug\netcoreapp3.1\FunctionService.pdb
+C:\z-a-Projects\WebProjects\CMS\FunctionService\bin\Debug\netcoreapp3.1\ModelService.dll
+C:\z-a-Projects\WebProjects\CMS\FunctionService\bin\Debug\netcoreapp3.1\ModelService.pdb
+C:\z-a-Projects\WebProjects\CMS\FunctionService\obj\Debug\netcoreapp3.1\FunctionService.csproj.CoreCompileInputs.cache
+C:\z-a-Projects\WebProjects\CMS\FunctionService\obj\Debug\netcoreapp3.1\FunctionService.csproj.CopyComplete
+C:\z-a-Projects\WebProjects\CMS\FunctionService\obj\Debug\netcoreapp3.1\FunctionService.dll
+C:\z-a-Projects\WebProjects\CMS\FunctionService\obj\Debug\netcoreapp3.1\FunctionService.pdb
